@@ -1,0 +1,5 @@
+C:\Users\TIEDT\Desktop\ProgWebII\Projeto-Base-.NET-CORE-Angular\Project.WebAPI\obj\Debug\net5.0\Project.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIEDT\Desktop\ProgWebII\Projeto-Base-.NET-CORE-Angular\Project.WebAPI\obj\Debug\net5.0\Project.WebAPI.AssemblyInfoInputs.cache
+C:\Users\TIEDT\Desktop\ProgWebII\Projeto-Base-.NET-CORE-Angular\Project.WebAPI\obj\Debug\net5.0\Project.WebAPI.AssemblyInfo.cs
+C:\Users\TIEDT\Desktop\ProgWebII\Projeto-Base-.NET-CORE-Angular\Project.WebAPI\obj\Debug\net5.0\Project.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\TIEDT\Desktop\ProgWebII\Projeto-Base-.NET-CORE-Angular\Project.WebAPI\obj\Debug\net5.0\Project.WebAPI.MvcApplicationPartsAssemblyInfo.cache

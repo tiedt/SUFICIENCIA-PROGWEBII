@@ -1,0 +1,8 @@
+{
+  "userName": "tiedt",
+  "email": "ree_murilo@hotmail.com",
+  "password": "123456@r",
+  "phoneNumber": "47984715301",
+  "fullName": "Rennã Murilo Tiedt"
+}
+,

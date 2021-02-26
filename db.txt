@@ -1,0 +1,27 @@
+======= Migrations =======
+Dentro da pasta Repository
+dotnet ef --startup-project ../Project.WebApi migrations add init
+dotnet ef --startup-project ../Project.WebApi database update
+==========================
+
+
+
+====== POST COMANDAS ==========
+{
+  "nomeUsuario": "teste",
+  "telefoneUsuario": "4798284158",
+  "produtos": [
+    {
+      "nome": "X-Salada",
+      "preco": 20
+    },
+    {
+      "nome": "X-Bacon",
+      "preco": 35
+    },
+    {
+      "nome": "X-Tudão Mega Power",
+      "preco": 75
+    }
+  ]
+}
